@@ -12,8 +12,7 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "*Visión 20/20* se dedica a ofrecer una amplia gama de productos para el cuidado de la visión, incluyendo gafas de aumento, estuches para gafas, cordones para gafas y más. Nuestro objetivo es proporcionar soluciones ópticas que mejoren tu visión y se adapten a tus necesidades diarias.",
-        description2: "Contamos con una variada selección de gafas para cerca y lejos, diseñadas para ofrecer comodidad y estilo, además de estuches y accesorios que protegen y complementan tus gafas.",
+        description1: "En visión 20/20, nos dedicamos a ofrecer una amplia gama de productos para el cuidado de la visión, incluyendo gafas de aumento, estuches para gafas, cordones para gafas, y más. Nuestro objetivo es proporcionar soluciones ópticas que mejoren tu visión y se adapten a tus necesidades diarias. Contamos con una variada selección de gafas para cerca y lejos, diseñadas para ofrecer comodidad y estilo, además de estuches y accesorios que protegen y complementan tus gafas. Cada producto está cuidadosamente seleccionado para garantizar calidad y funcionalidad. En visión 20/20, creemos que una buena visión es esencial para una vida plena. Por eso, nos esforzamos en ofrecer productos que no sólo cumplen con los más altos estándares, experiencia visual día a día. Explora nuestra oferta y descubre como visión 20/20 puede ayudarte a ver el mundo con mayor claridad y estilo. ¡Tú  visión es nuestra prioridad!"
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
